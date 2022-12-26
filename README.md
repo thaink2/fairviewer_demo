@@ -4,7 +4,7 @@
 which provides a powerful tool for your **time series** data analysis and
 forecasting.
 
-### Use the App
+### Access and use the App
 
 * Go to [FairViewer](https://viewer.fair-analytics.com/)
 * If you don't have an account, register yourself
@@ -13,6 +13,13 @@ forecasting.
 
 ![image](https://user-images.githubusercontent.com/28296521/209551351-99f51cf7-2b00-4ce0-adef-3ac93a02cb6f.png)
 
+### Documentation :
+
+Please refer to the pdf attached in this repo to get a detailed information about the features and how to use the app properly. 
+
+### Input Data
+
+[FairViewer](https://viewer.fair-analytics.com/) requires data as an input, in the subdirectory [data](./data), you'll find an input template.
 
 ### Contact Us
 
