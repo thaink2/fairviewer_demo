@@ -15,7 +15,7 @@ forecasting.
 
 ### Documentation :
 
-Please refer to the pdf attached in this repo to get a detailed information about the features and how to use the app properly. 
+Please refer to the [Documentation](./FairViewerDocumentation_EN.pdf) pdf, attached in this repo to get a detailed information about the features and how to use the app properly. 
 
 ### Input Data
 
