@@ -1,5 +1,8 @@
 ## [FairViewer](https://www.fair-analytics.com/product.html) by Fair Analytics
 
+![logo](https://user-images.githubusercontent.com/28296521/209553702-a1db7e81-7ed4-4788-b19f-9e508fd42bae.png)
+
+
 [FairViewer](https://viewer.fair-analytics.com/) by FairAnalytics is a code-free & easy-to-use web-based platform,
 which provides a powerful tool for your **time series** data analysis and
 forecasting.
